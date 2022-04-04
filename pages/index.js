@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>hulu 2.0</title>
+        <title>hulu</title>
       </Head>
 
       {/* Header */}
